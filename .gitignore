@@ -1,0 +1,21 @@
+# entornos virtuales
+venv/
+env/
+ENV/
+.venv/
+
+# archivos python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# archivos de Jupyter Notebooks
+.ipynb_checkpoints/
+
+# ignorar arvhicos de de IDEs y editores
+.vscode/
+.idea/
+
+# arch de  Sistema operativo
+.DS_Store
+Thumbs.db
