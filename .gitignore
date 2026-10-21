@@ -3,6 +3,7 @@ venv/
 env/
 ENV/
 .venv/
+ambiente_tpE/
 
 # archivos python
 __pycache__/
